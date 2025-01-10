@@ -1,0 +1,23 @@
+body {
+    font-family:'Monaco', monospace;
+}
+h1 {
+    text-align: center;
+}
+.recipe-list {
+    background-color: rgb(248, 241, 231);
+    width:fit-content;
+    border: 5px solid goldenrod;
+    padding: 30px;
+    margin-left: 39%;
+    margin-top: 10%;
+    list-style: none;
+    
+
+}
+
+.recipe-list a {
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
